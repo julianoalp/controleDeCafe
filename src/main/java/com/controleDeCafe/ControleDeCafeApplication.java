@@ -8,6 +8,7 @@ public class ControleDeCafeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ControleDeCafeApplication.class, args);
+		System.out.println("Teste de commit");
 	}
 
 }
